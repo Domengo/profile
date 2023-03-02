@@ -1,7 +1,9 @@
+[![Dominic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domengo)](https://github.com/anuraghazra/github-readme-stats)
+
 # Your Name
 
 Software Developer with experience in building and maintaining software applications. Seeking new opportunities to expand my skills and deliver value to clients.
-[![Dominic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domengo)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills
 
 - Proficient in programming languages such as Java, Python, and JavaScript
